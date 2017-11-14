@@ -1,2 +1,2 @@
-# Proyecto-SVT
+# Proyecto-STV
 Proyecto del voto transferido.
