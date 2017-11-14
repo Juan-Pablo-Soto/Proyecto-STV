@@ -15,9 +15,7 @@ public class ProyectSTV {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        InterfazPrueba i = new InterfazPrueba();
-        i.setVisible(true);
-        i.setLocationRelativeTo(null);
+        
     }
     
 }
